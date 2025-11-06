@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Kate 👋
+I'm a public health and data professional passionate about using analytical methods to inform evidence-based health policy.
+
+- 🎓 MPH & MA in International Development Studies  
+- 💻 Skilled in R, SAS, and Python for data management and visualization  
+- 🌍 Experienced in global health, epidemiology, and infectious disease surveillance  
+- 📊 Currently exploring ways to make public health data more actionable  
 
 <!--
 **katerossmph/katerossmph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
