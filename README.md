@@ -2,7 +2,7 @@
 I'm a public health and data professional passionate about using analytical methods to inform evidence-based health policy.
 
 - 🎓 MPH & MA in International Development Studies  
-- 💻 Skilled in R, SAS, and Python for data management and visualization  
+- 💻 Skilled in R and SAS for data management and visualization  
 - 🌍 Experienced in global health, epidemiology, and infectious disease surveillance  
 - 📊 Currently exploring ways to make public health data more actionable  
 
